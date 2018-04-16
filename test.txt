@@ -1,2 +1,3 @@
 To be or not to be is a question.
 This is A.
+This is B.
