@@ -1,7 +1,7 @@
 To be or not to be is a question.
 This is A.
 This is B.
-This is C.
+This is C no bug.
 This is a test about branch dev.
 This is a bad branch but we can fix it.
 This is a test about "--no-ff".
