@@ -3,3 +3,4 @@ This is A.
 This is B.
 This is C.
 This is a test about branch dev.
+This is a bad branch.
